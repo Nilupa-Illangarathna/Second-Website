@@ -2,6 +2,13 @@
 
 TinDog is a delightful dating application designed to help dogs find new friends and potential life partners. With a sleek and user-friendly interface, TinDog promises an exciting experience for both dog owners and their furry companions. This project utilizes HTML, CSS, and Bootstrap to create a visually appealing and responsive web application. This is the second attempt of web development. 
 
+HTML: ![HTML](https://img.shields.io/badge/HTML-5-blue?style=for-the-badge&logo=html5)
+CSS: ![CSS](https://img.shields.io/badge/CSS-3-orange?style=for-the-badge&logo=css3)
+Bootstrap: ![Bootstrap](https://img.shields.io/badge/Bootstrap-4-purple?style=for-the-badge&logo=bootstrap)
+JavaScript (Optional if used): ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?style=for-the-badge&logo=javascript)
+Responsive Design: ![Responsive Design](https://img.shields.io/badge/Responsive-Design-blueviolet?style=for-the-badge)
+User-Friendly: ![User-Friendly](https://img.shields.io/badge/User-Friendly-brightgreen?style=for-the-badge)
+
 You can visit the website using
  https://nilupa-illangarathna.github.io/Second-Website/
 
